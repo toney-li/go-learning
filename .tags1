@@ -4,4 +4,6 @@
 !_TAG_PROGRAM_NAME	Exuberant Ctags	//
 !_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
 !_TAG_PROGRAM_VERSION	5.8	//
-Golang的权限操作	/Users/liyi/Workspace/GoWorkspace/src/github.com/toney-li/go-learning/doc/os/auth/GO_AUTH.MD	/^## Golang的权限操作$/;"	function	line:1
+GO 学习源码	/Users/liyi/Workspace/GoWorkspace/src/github.com/toney-li/go-learning/README.MD	/^## GO 学习源码$/;"	function	line:1
+说明	/Users/liyi/Workspace/GoWorkspace/src/github.com/toney-li/go-learning/README.MD	/^### 说明$/;"	function	line:3
+Golang的OS操作	/Users/liyi/Workspace/GoWorkspace/src/github.com/toney-li/go-learning/README.MD	/^### Golang的OS操作$/;"	function	line:7

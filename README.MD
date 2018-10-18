@@ -5,5 +5,5 @@
 
 
 ### Golang的OS操作
-Golang的OS是跨平台的。从os包下的函数命名，就可以发现，基本上和Unix/Linux的命名方式/命令行使用非常类似。
+Golang的OS是跨平台的。从os包下的函数命名，就可以发现，基本上和Unix/Linux的命名方式/命令行使用非常类似。  
 [OS操作](./doc/os/GO_OS.MD)
