@@ -8,3 +8,6 @@ go:
 install:
   - true
 
+script:
+  - go build
+
