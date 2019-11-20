@@ -5,13 +5,14 @@ import (
 	"sync"
 )
 
+// Singleton is a comment
 type Singleton struct {
 }
 
 var singleton *Singleton
 var once sync.Once
 
-func Instance() (*Singleton) {
+func Instance() *Singleton {
 	once.Do(func() {
 		singleton = &Singleton{}
 	})
